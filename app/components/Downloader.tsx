@@ -37,14 +37,17 @@ export default function Downloader(props: Props) {
     updateURL(url);
   };
 
+  const submit = path => {
+    setButtonText('Uploading');
+    updatePath(path);
+  };
+
   const handleSubmit = async () => {
     const { dialog } = require('electron').remote;
     const path = await dialog.showOpenDialog({ properties: ['openDirectory'] });
-    setButtonText('Uploading');
-    if (!path.canceled) {
-      updatePath(path);
-    }
+    path.canceled ? setErrorMessage('Select a path to download the file') : submit(path);
   };
+
   return (
     <div className="container">
       <label>
