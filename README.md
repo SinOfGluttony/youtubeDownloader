@@ -7,4 +7,4 @@ cd youtubeDownloader && yarn && yarn package
 ```
 then go to release -> youtubeDownload Setup xxx.exe
 
-I'll add a direct link later to the .exe
+Direct link : https://send.firefox.com/download/24106ac5c4dee726/#E-_c_nm2Lv4jhmVAIY6zPw
