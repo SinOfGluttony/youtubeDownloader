@@ -31,7 +31,7 @@ linux:
   category: Development
 publish:
   provider: github
-  owner: youtubeDownloader
+  owner: loydfassi
   repo: youtubeDownloader
   private: false
 electronVersion: 7.1.13

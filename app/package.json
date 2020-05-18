@@ -1,7 +1,7 @@
 {
   "name": "YoutubeDownloader",
   "productName": "YoutubeDownloader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Youtube Video Downloader !",
   "main": "./main.prod.js",
   "scripts": {

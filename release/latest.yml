@@ -1,8 +1,8 @@
-version: 1.0.1
+version: 1.0.2
 files:
-  - url: youtubeDownloader-Setup-1.0.1.exe
-    sha512: A6GPlwRkQuGn6kTpNJYSQ6Y0YvG+Qxuq9A79so3CXKQC+B7miQzRSOGgsa3nxY6Ygj2Kws3+aNMoE2Yd6eDmZw==
-    size: 46426214
-path: youtubeDownloader-Setup-1.0.1.exe
-sha512: A6GPlwRkQuGn6kTpNJYSQ6Y0YvG+Qxuq9A79so3CXKQC+B7miQzRSOGgsa3nxY6Ygj2Kws3+aNMoE2Yd6eDmZw==
-releaseDate: '2020-05-17T23:12:53.158Z'
+  - url: youtubeDownloader-Setup-1.0.2.exe
+    sha512: LzERH+NdOddV1Nth24mP+8VeONI2Mp4gPr9PBGlO7jpoZAXqe0XKKSou1w2Z3JqJ/Q5QIywst2N0T43lZeib1w==
+    size: 46426150
+path: youtubeDownloader-Setup-1.0.2.exe
+sha512: LzERH+NdOddV1Nth24mP+8VeONI2Mp4gPr9PBGlO7jpoZAXqe0XKKSou1w2Z3JqJ/Q5QIywst2N0T43lZeib1w==
+releaseDate: '2020-05-18T14:41:18.155Z'
