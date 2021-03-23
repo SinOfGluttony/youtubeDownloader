@@ -2,7 +2,7 @@
 A simple Youtube downloader made with electron guaranteed without malware or malicious code
 
 ```bash
-git clone https://github.com/loydfassi/youtubeDownloader.git
+git clone https://github.com/SinOfLust/youtubeDownloader.git
 cd youtubeDownloader && yarn && yarn package
 ```
 then go to release -> youtubeDownloader Setup xxx.exe
